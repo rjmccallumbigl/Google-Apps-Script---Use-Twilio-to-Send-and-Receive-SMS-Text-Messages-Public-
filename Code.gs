@@ -2,6 +2,8 @@
 *
 * Integrate Google Sheets with Twilio.
 *
+* https://www.reddit.com/r/googlesheets/comments/hf05cp/hey_i_volunteer_at_a_food_coop_and_want_people_to/
+*
 */
 
 // ***********************************************************************************************************************
